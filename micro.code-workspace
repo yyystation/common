@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "..\\cart"
+        },
+        {
+            "path": "..\\product"
+        },
+        {
+            "path": "."
+        },
+        {
+            "path": "..\\category"
+        }
+    ]
+}
