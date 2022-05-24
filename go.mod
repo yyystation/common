@@ -1,4 +1,4 @@
-module gitee.com/yyy-coder/common
+module github.com/yyystation/common
 
 go 1.18
 
